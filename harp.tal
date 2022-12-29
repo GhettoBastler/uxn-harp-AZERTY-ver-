@@ -85,8 +85,8 @@
 	;on-mouse .Mouse/vector DEO2
 BRK
 
-@bass-keys  "vqxdrawcfzse
-@chord-keys "yuiophjkl;nm,./
+@bass-keys  "vaxdrqzcfwse
+@chord-keys "yuiophjklmn,;:!
 
 @on-controller ( -> )
 	( Loop over bass note buttons: )
